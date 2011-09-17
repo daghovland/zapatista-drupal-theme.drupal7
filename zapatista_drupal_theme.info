@@ -1,0 +1,13 @@
+; $Id $
+name = Zapatista Drupal Theme
+description = Basert på nonzerord
+core = 6.x
+engine = phptemplate
+version = "6.9"
+
+
+
+version = "6.x-1.0"
+core = "6.x"
+project = "Zapatista Drupal Theme"
+
